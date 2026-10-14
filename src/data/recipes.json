@@ -1,0 +1,232 @@
+[
+  {
+    "id": "r1", "title": "Overnight Oats", "emoji": "🥣", "mealType": "breakfast", "time": 5, "servings": 2,
+    "diet": ["vegetarian"],
+    "ingredients": [
+      { "name": "Rolled oats", "qty": 1, "unit": "cup", "category": "Pantry" },
+      { "name": "Milk", "qty": 1, "unit": "cup", "category": "Dairy & Eggs" },
+      { "name": "Greek yogurt", "qty": 0.5, "unit": "cup", "category": "Dairy & Eggs" },
+      { "name": "Honey", "qty": 2, "unit": "tbsp", "category": "Pantry" },
+      { "name": "Blueberries", "qty": 1, "unit": "cup", "category": "Produce" }
+    ],
+    "steps": [
+      "Stir the oats, milk, yogurt and honey together in a jar.",
+      "Cover and refrigerate overnight, or at least 6 hours.",
+      "Top with blueberries just before serving."
+    ]
+  },
+  {
+    "id": "r2", "title": "Veggie Scramble", "emoji": "🍳", "mealType": "breakfast", "time": 15, "servings": 2,
+    "diet": ["vegetarian", "gluten-free"],
+    "ingredients": [
+      { "name": "Eggs", "qty": 4, "unit": "", "category": "Dairy & Eggs" },
+      { "name": "Bell pepper", "qty": 1, "unit": "", "category": "Produce" },
+      { "name": "Spinach", "qty": 2, "unit": "cup", "category": "Produce" },
+      { "name": "Cheddar cheese", "qty": 0.5, "unit": "cup", "category": "Dairy & Eggs" },
+      { "name": "Butter", "qty": 1, "unit": "tbsp", "category": "Dairy & Eggs" }
+    ],
+    "steps": [
+      "Dice the bell pepper and sauté in butter for 3 minutes.",
+      "Add spinach and cook until wilted.",
+      "Pour in whisked eggs and stir gently until just set.",
+      "Fold in the cheese and season with salt and pepper."
+    ]
+  },
+  {
+    "id": "r3", "title": "Banana Pancakes", "emoji": "🥞", "mealType": "breakfast", "time": 20, "servings": 4,
+    "diet": ["vegetarian"],
+    "ingredients": [
+      { "name": "Flour", "qty": 1.5, "unit": "cup", "category": "Pantry" },
+      { "name": "Bananas", "qty": 2, "unit": "", "category": "Produce" },
+      { "name": "Milk", "qty": 1, "unit": "cup", "category": "Dairy & Eggs" },
+      { "name": "Eggs", "qty": 1, "unit": "", "category": "Dairy & Eggs" },
+      { "name": "Baking powder", "qty": 2, "unit": "tsp", "category": "Pantry" },
+      { "name": "Maple syrup", "qty": 0.25, "unit": "cup", "category": "Pantry" }
+    ],
+    "steps": [
+      "Mash the bananas, then whisk in the milk and egg.",
+      "Stir in the flour and baking powder until just combined.",
+      "Cook ¼-cup portions on a hot griddle until bubbles form, then flip.",
+      "Serve warm with maple syrup."
+    ]
+  },
+  {
+    "id": "r4", "title": "Chicken Caesar Wrap", "emoji": "🌯", "mealType": "lunch", "time": 15, "servings": 2,
+    "diet": [],
+    "ingredients": [
+      { "name": "Cooked chicken breast", "qty": 8, "unit": "oz", "category": "Meat & Seafood" },
+      { "name": "Romaine lettuce", "qty": 1, "unit": "", "category": "Produce" },
+      { "name": "Flour tortillas", "qty": 2, "unit": "", "category": "Bakery" },
+      { "name": "Parmesan", "qty": 0.25, "unit": "cup", "category": "Dairy & Eggs" },
+      { "name": "Caesar dressing", "qty": 3, "unit": "tbsp", "category": "Pantry" }
+    ],
+    "steps": [
+      "Slice the chicken and chop the romaine.",
+      "Toss chicken, romaine, parmesan and dressing in a bowl.",
+      "Divide between tortillas, roll tightly and slice in half."
+    ]
+  },
+  {
+    "id": "r5", "title": "Chickpea Salad Bowl", "emoji": "🥗", "mealType": "lunch", "time": 15, "servings": 2,
+    "diet": ["vegetarian", "vegan", "gluten-free", "dairy-free"],
+    "ingredients": [
+      { "name": "Chickpeas", "qty": 1, "unit": "can", "category": "Pantry" },
+      { "name": "Cucumber", "qty": 1, "unit": "", "category": "Produce" },
+      { "name": "Cherry tomatoes", "qty": 1, "unit": "cup", "category": "Produce" },
+      { "name": "Red onion", "qty": 0.5, "unit": "", "category": "Produce" },
+      { "name": "Olive oil", "qty": 2, "unit": "tbsp", "category": "Pantry" },
+      { "name": "Lemon", "qty": 1, "unit": "", "category": "Produce" }
+    ],
+    "steps": [
+      "Drain and rinse the chickpeas.",
+      "Chop the cucumber, halve the tomatoes and thinly slice the onion.",
+      "Toss everything with olive oil, lemon juice, salt and pepper."
+    ]
+  },
+  {
+    "id": "r6", "title": "Tomato Basil Soup", "emoji": "🍅", "mealType": "lunch", "time": 35, "servings": 4,
+    "diet": ["vegetarian", "gluten-free"],
+    "ingredients": [
+      { "name": "Crushed tomatoes", "qty": 2, "unit": "can", "category": "Pantry" },
+      { "name": "Yellow onion", "qty": 1, "unit": "", "category": "Produce" },
+      { "name": "Garlic", "qty": 3, "unit": "clove", "category": "Produce" },
+      { "name": "Vegetable broth", "qty": 2, "unit": "cup", "category": "Pantry" },
+      { "name": "Fresh basil", "qty": 0.5, "unit": "cup", "category": "Produce" },
+      { "name": "Heavy cream", "qty": 0.5, "unit": "cup", "category": "Dairy & Eggs" }
+    ],
+    "steps": [
+      "Sauté diced onion and garlic until soft, about 5 minutes.",
+      "Add tomatoes and broth; simmer for 20 minutes.",
+      "Blend until smooth, then stir in cream and torn basil."
+    ]
+  },
+  {
+    "id": "r7", "title": "Turkey Avocado Sandwich", "emoji": "🥪", "mealType": "lunch", "time": 10, "servings": 1,
+    "diet": ["dairy-free"],
+    "ingredients": [
+      { "name": "Sourdough bread", "qty": 2, "unit": "slice", "category": "Bakery" },
+      { "name": "Sliced turkey", "qty": 4, "unit": "oz", "category": "Meat & Seafood" },
+      { "name": "Avocado", "qty": 0.5, "unit": "", "category": "Produce" },
+      { "name": "Tomato", "qty": 1, "unit": "", "category": "Produce" }
+    ],
+    "steps": [
+      "Toast the bread.",
+      "Mash avocado onto one slice and layer turkey and tomato.",
+      "Top with the second slice and cut diagonally."
+    ]
+  },
+  {
+    "id": "r8", "title": "One-Pan Lemon Chicken", "emoji": "🍋", "mealType": "dinner", "time": 40, "servings": 4,
+    "diet": ["gluten-free", "dairy-free"],
+    "ingredients": [
+      { "name": "Chicken thighs", "qty": 2, "unit": "lb", "category": "Meat & Seafood" },
+      { "name": "Baby potatoes", "qty": 1.5, "unit": "lb", "category": "Produce" },
+      { "name": "Lemon", "qty": 2, "unit": "", "category": "Produce" },
+      { "name": "Garlic", "qty": 4, "unit": "clove", "category": "Produce" },
+      { "name": "Olive oil", "qty": 3, "unit": "tbsp", "category": "Pantry" },
+      { "name": "Dried oregano", "qty": 1, "unit": "tsp", "category": "Spices" }
+    ],
+    "steps": [
+      "Heat the oven to 425°F.",
+      "Toss chicken and halved potatoes with oil, garlic, oregano and lemon juice.",
+      "Spread on a sheet pan with lemon slices and roast 35 minutes."
+    ]
+  },
+  {
+    "id": "r9", "title": "Beef Tacos", "emoji": "🌮", "mealType": "dinner", "time": 25, "servings": 4,
+    "diet": [],
+    "ingredients": [
+      { "name": "Ground beef", "qty": 1, "unit": "lb", "category": "Meat & Seafood" },
+      { "name": "Taco shells", "qty": 8, "unit": "", "category": "Bakery" },
+      { "name": "Taco seasoning", "qty": 2, "unit": "tbsp", "category": "Spices" },
+      { "name": "Shredded lettuce", "qty": 2, "unit": "cup", "category": "Produce" },
+      { "name": "Cheddar cheese", "qty": 1, "unit": "cup", "category": "Dairy & Eggs" },
+      { "name": "Salsa", "qty": 0.5, "unit": "cup", "category": "Pantry" }
+    ],
+    "steps": [
+      "Brown the beef and drain the fat.",
+      "Stir in seasoning and ½ cup water; simmer 5 minutes.",
+      "Warm the shells and fill with beef, lettuce, cheese and salsa."
+    ]
+  },
+  {
+    "id": "r10", "title": "Veggie Stir-Fry", "emoji": "🥦", "mealType": "dinner", "time": 20, "servings": 3,
+    "diet": ["vegetarian", "vegan", "dairy-free"],
+    "ingredients": [
+      { "name": "Broccoli", "qty": 2, "unit": "cup", "category": "Produce" },
+      { "name": "Bell pepper", "qty": 1, "unit": "", "category": "Produce" },
+      { "name": "Firm tofu", "qty": 14, "unit": "oz", "category": "Produce" },
+      { "name": "Soy sauce", "qty": 3, "unit": "tbsp", "category": "Pantry" },
+      { "name": "Jasmine rice", "qty": 1, "unit": "cup", "category": "Pantry" },
+      { "name": "Ginger", "qty": 1, "unit": "tbsp", "category": "Produce" }
+    ],
+    "steps": [
+      "Cook the rice according to the package.",
+      "Press and cube the tofu, then sear until golden.",
+      "Stir-fry the vegetables and ginger for 5 minutes.",
+      "Add tofu and soy sauce, toss, and serve over rice."
+    ]
+  },
+  {
+    "id": "r11", "title": "Spaghetti Bolognese", "emoji": "🍝", "mealType": "dinner", "time": 45, "servings": 4,
+    "diet": ["dairy-free"],
+    "ingredients": [
+      { "name": "Spaghetti", "qty": 1, "unit": "lb", "category": "Pantry" },
+      { "name": "Ground beef", "qty": 1, "unit": "lb", "category": "Meat & Seafood" },
+      { "name": "Crushed tomatoes", "qty": 1, "unit": "can", "category": "Pantry" },
+      { "name": "Yellow onion", "qty": 1, "unit": "", "category": "Produce" },
+      { "name": "Carrot", "qty": 1, "unit": "", "category": "Produce" },
+      { "name": "Garlic", "qty": 2, "unit": "clove", "category": "Produce" }
+    ],
+    "steps": [
+      "Finely dice the onion and carrot; sauté with garlic for 6 minutes.",
+      "Add beef and brown well.",
+      "Stir in tomatoes and simmer 25 minutes.",
+      "Cook spaghetti, drain, and toss with the sauce."
+    ]
+  },
+  {
+    "id": "r12", "title": "Salmon with Rice", "emoji": "🐟", "mealType": "dinner", "time": 30, "servings": 2,
+    "diet": ["gluten-free", "dairy-free"],
+    "ingredients": [
+      { "name": "Salmon fillets", "qty": 2, "unit": "", "category": "Meat & Seafood" },
+      { "name": "Jasmine rice", "qty": 1, "unit": "cup", "category": "Pantry" },
+      { "name": "Asparagus", "qty": 1, "unit": "lb", "category": "Produce" },
+      { "name": "Lemon", "qty": 1, "unit": "", "category": "Produce" },
+      { "name": "Olive oil", "qty": 1, "unit": "tbsp", "category": "Pantry" }
+    ],
+    "steps": [
+      "Start the rice.",
+      "Roast salmon and asparagus with oil at 400°F for 12–15 minutes.",
+      "Finish with lemon juice and serve over rice."
+    ]
+  },
+  {
+    "id": "r13", "title": "Hummus & Veggies", "emoji": "🥕", "mealType": "snack", "time": 5, "servings": 2,
+    "diet": ["vegetarian", "vegan", "gluten-free", "dairy-free"],
+    "ingredients": [
+      { "name": "Hummus", "qty": 1, "unit": "cup", "category": "Pantry" },
+      { "name": "Carrot", "qty": 2, "unit": "", "category": "Produce" },
+      { "name": "Cucumber", "qty": 1, "unit": "", "category": "Produce" },
+      { "name": "Bell pepper", "qty": 1, "unit": "", "category": "Produce" }
+    ],
+    "steps": [
+      "Cut the vegetables into sticks.",
+      "Serve alongside the hummus."
+    ]
+  },
+  {
+    "id": "r14", "title": "Peanut Butter Energy Bites", "emoji": "🍪", "mealType": "snack", "time": 15, "servings": 6,
+    "diet": ["vegetarian"],
+    "ingredients": [
+      { "name": "Rolled oats", "qty": 1, "unit": "cup", "category": "Pantry" },
+      { "name": "Peanut butter", "qty": 0.5, "unit": "cup", "category": "Pantry" },
+      { "name": "Honey", "qty": 0.33, "unit": "cup", "category": "Pantry" },
+      { "name": "Chocolate chips", "qty": 0.5, "unit": "cup", "category": "Pantry" }
+    ],
+    "steps": [
+      "Mix all ingredients in a bowl.",
+      "Chill 20 minutes, then roll into 1-inch balls."
+    ]
+  }
+]
