@@ -55,7 +55,9 @@ export default function App() {
     return () => window.removeEventListener('keydown', onKey);
   }, [navigate, undoLast]);
 
-  useEffect(() => window.scrollTo(0, 0), [location.pathname]);
+  useEffect(() => {
+  window.scrollTo(0, 0);
+}, [location.pathname]);
 
   return (
     <>
